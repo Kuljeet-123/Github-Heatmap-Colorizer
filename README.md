@@ -39,4 +39,4 @@ Purple                                |  Yellow
 :family: Contributing
 ------------
 
-Contributions are welcome!
+Contributions are welcome!.
