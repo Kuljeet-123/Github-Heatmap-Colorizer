@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="GitHub Heatmap Colorizer" src="https://github.com/pkellz/github-heatmap-colorizer/blob/master/icons/logo.png?raw=true">
+  <img alt="GitHub Heatmap Colorizer" src="https://github.com/Kuljeet-123/Github-Heatmap-Colorizer/blob/master/icons/logo.png?raw=true">
 </p>
 
 <h2 align="center">
@@ -18,7 +18,7 @@ Features:
 
 :wrench: Install
 -------
-  1. Download the [plugin files](https://github.com/pkellz/github-heatmap-colorizer/blob/master/plugin.zip?raw=true)
+  1. Download the [plugin files](https://github.com/Kuljeet-123/Github-Heatmap-Colorizer/blob/master/plugin.zip?raw=true)
   2. Unzip the folder
   3. Visit `chrome://extensions`
   4. Make sure 'Developer Mode' is enabled
@@ -28,14 +28,13 @@ Features:
 -----------
 Blue                           |  Red
 :----------------------------------:|:--------------------------------------:		
-![Blue](https://github.com/pkellz/github-heatmap-colorizer/blob/master/docs/blue_demo.png?raw=true)|![Red](https://github.com/pkellz/github-heatmap-colorizer/blob/master/docs/red_demo.png?raw=true)
+![Blue](https://github.com/Kuljeet-123/Github-Heatmap-Colorizer/blob/master/docs/blue_demo.png?raw=true)|![Red](https://github.com/Kuljeet-123/Github-Heatmap-Colorizer/blob/master/docs/red_demo.png?raw=true)
 
 Purple                                |  Yellow
 :----------------------------------:|:--------------------------------------:		
-![Purple](https://github.com/pkellz/github-heatmap-colorizer/blob/master/docs/purple_demo.png?raw=true)|![Yellow](https://github.com/pkellz/github-heatmap-colorizer/blob/master/docs/yellow_demo.png?raw=true)
+![Purple](https://github.com/Kuljeet-123/Github-Heatmap-Colorizer/blob/master/docs/purple_demo.png?raw=true)|![Yellow](https://github.com/Kuljeet-123/Github-Heatmap-Colorizer/blob/master/docs/yellow_demo.png?raw=true)
 
-## :hammer:  Usage
-![Purple](https://github.com/pkellz/github-heatmap-colorizer/blob/master/docs/demo.gif?raw=true)
+
 
 :family: Contributing
 ------------
